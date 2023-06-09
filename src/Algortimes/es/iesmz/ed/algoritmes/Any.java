@@ -14,7 +14,7 @@ public class Any {
     /**
      * Constructor de la clase 'Any'
      * al que se le pasa un año con un tipo Long
-     * y que contiene lo almacena en su atributo correspondiente.
+     * y que lo almacena en su atributo correspondiente.
      * @param any de tipo Long
      */
     public Any(long any) {
