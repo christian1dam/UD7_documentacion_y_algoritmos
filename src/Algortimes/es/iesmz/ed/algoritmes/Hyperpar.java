@@ -15,7 +15,7 @@ public class Hyperpar {
     /**
      * Constructor de la clase 'Hyperpar'
      * al que se le pasa un número de tipo Long
-     * y que contiene el método 'esHyperpar' y lo analiza.
+     * y que lo almacena en el atributo correspondiente.
      * @param numero
      */
     public Hyperpar(long numero){
